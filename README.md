@@ -41,3 +41,4 @@ Overall weather performance summary through KPI indicators.
 Quick identification of significant weather changes and trends.
 
 6. Screenshots / Demos
+https://github.com/pratyushhati/Weather-Forecasting-dashboard/blob/main/Snapshot%20of%20dashboard.png
