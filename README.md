@@ -5,14 +5,15 @@ Interactive Weather Report Dashboard | Power BI Data Visualization Project
 This Power BI Weather Report Dashboard provides a comprehensive view of weather conditions through interactive visualizations and key performance indicators. The dashboard enables users to monitor temperature trends, humidity levels, precipitation patterns, wind conditions, and other important weather metrics in an intuitive and data-driven format. It is designed to transform raw weather data into meaningful insights for better analysis and decision-making.
 
 3. Tech Stack
-+The dashboard was built using the following tools and technologies:
+   
+The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+5. Data Source
 The dashboard is built using weather-related datasets containing information such as temperature, humidity, wind speed, precipitation, atmospheric conditions, and other meteorological indicators. The data was processed, transformed, and modeled in Power BI to generate actionable insights and interactive reports.
 
 6. Features / Highlights
